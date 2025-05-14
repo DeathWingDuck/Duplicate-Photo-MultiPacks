@@ -1,6 +1,12 @@
-# Duplicate-Photo-MultiPacks
-Take a single stock photo and duplicate the single unit into 5 pack 10 pack etc. Then you do not have to take the items out of the box and arrange them for another photo.
+Duplicate-Photo-MultiPacks
 
-photo.py is for a single photo/product
+Helps you quickly generate "multi-pack" images from a single product photo. Instead of unpacking and arranging multiple items for a new photo, this tool duplicates the original image to create 5-pack, 10-pack, and other bundled visuals.
 
-multiplephotos.py will take all images in the folder and apply the same out put to all of them.
+Features
+photo.py: Processes a single product image and generates a multi-pack version.
+
+multiplephotos.py: Batch processes all images in a folder, applying the same multi-pack effect to each.
+
+Use Case
+Ideal for e-commerce sellers or marketers who want to showcase bulk item listings without extra photography.
+
